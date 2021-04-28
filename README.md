@@ -16,7 +16,7 @@ Além disso, use o comando `yarn server` para rodar a fake API com o json-server
 ## Próximo nível 
 
 O Podcastr é um projeto desenvolvido pela Rocketseat. </br>
-Como desafio para alcançar o próximo nível implementei o tema escuro. </br>
+Como desafio pesoal para alcançar o próximo nível implementei o tema escuro. </br>
 
 ### WIP
 
