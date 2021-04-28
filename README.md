@@ -13,6 +13,6 @@ Além disso, use o comando `yarn server` para rodar a fake API com o json-server
 O Podcastr é um projeto desenvolvido pela Rocketseat. 
 Como desafio para alcançar o próximo nível implementei o tema escuro. 
 
-### To-do
+### To do
 
 Outro desafio que está em progresso é a implementação de responsividade para monitores menores, tablets e smartphones
