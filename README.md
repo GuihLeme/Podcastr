@@ -4,14 +4,14 @@
 
 ## Rodando o projeto 
 
-Não esqueça de rodar no terminal integrado `yarn` para adicionar todas as dependencias.
-Após as dependencias estarem devidamente instaladas, utilize `yarn dev` para iniciar o projeto.
+Não esqueça de rodar no terminal integrado `yarn` para adicionar todas as dependencias. </br>
+Após as dependencias estarem devidamente instaladas, utilize `yarn dev` para iniciar o projeto. </br>
 Além disso, use o comando `yarn server` para rodar a fake API com o json-server.  
 
 ## Próximo nível 
 
-O Podcastr é um projeto desenvolvido pela Rocketseat. 
-Como desafio para alcançar o próximo nível implementei o tema escuro. 
+O Podcastr é um projeto desenvolvido pela Rocketseat. </br>
+Como desafio para alcançar o próximo nível implementei o tema escuro. </br>
 
 ### To do
 
