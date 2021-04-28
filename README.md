@@ -5,7 +5,7 @@
 ## Rodando o projeto 
 
 Não esqueça de rodar no terminal integrado `yarn` para adicionar todas as dependencias.
-
+Após as dependencias estarem devidamente instaladas, utilize `yarn dev` para iniciar o projeto.
 Além disso, use o comando `yarn server` para rodar a fake API com o json-server.  
 
 ## Próximo nível 
