@@ -30,7 +30,7 @@ interface EpisodeProps {
 
 
 export default function Episode({ episode }: EpisodeProps) {
-  const { play, } = usePlayer()
+  const { play } = usePlayer()
 
 
   return (

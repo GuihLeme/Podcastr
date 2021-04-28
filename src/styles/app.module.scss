@@ -1,7 +1,16 @@
-.wrapper {
-  display: flex;
+@media (max-width: 899px) {
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}
 
-  main {
-    flex: 1;
+@media (min-width: 900px) {
+  .wrapper {
+    display: flex;
+  
+    main {
+      flex: 1;
+    }
   }
 }

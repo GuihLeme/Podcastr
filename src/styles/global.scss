@@ -19,6 +19,8 @@
   --purple-400: #9164FA; 
   --purple-500: #8257E5;
   --purple-800: #6F48C9;
+
+  --background: #2f363d;
 }
 
 @media (max-width: 1080px) {
@@ -33,8 +35,12 @@
   }
 }
 
-body {
+main {
   background: var(--gray-50);
+}
+
+main.darkTheme {
+  background: var(--background);
 }
 
 body, input, textarea, button {
